@@ -1,0 +1,32 @@
+# General Words — 400个一般名词
+
+> 最难但也是最后一块拼图。Week 4-5 学习。
+> 记忆策略：按语义场分组，在语境中习得。
+
+## 商业/经济（35词）
+
+account, addition, adjustment, advertisement, agreement, amount, approval, authority, balance, business, company, comparison, competition, credit, debt, degree, distribution, exchange, export, industry, insurance, interest, investment, manager, market, mass, measure, payment, price, produce, profit, property, rate, reward, trade
+
+## 社会/政治（30词）
+
+attack, attempt, attention, committee, condition, connection, control, country, crime, decision, direction, discussion, government, group, judge, law, military, nation, operation, opinion, order, organization, political, position, power, protest, public, purpose, representative, respect
+
+## 自然/科学（30词）
+
+acid, air, chance, chemical, coal, copper, cotton, current, curve, damage, digestion, distance, earth, effect, electric, existence, expansion, force, grain, growth, harmony, impulse, increase, instrument, iron, metal, mine, observation, oil, powder, process, quality, reaction, ray, rhythm, science, steam, steel, substance, system
+
+## 日常生活（40词）
+
+change, comfort, cook, copy, cork, cotton, cover, crack, crush, cry, cup, cut, detail, discovery, drink, driving, dust, edge, education, example, experience, expert, fact, fear, feeling, fiction, fight, fire, flame, fold, food, form, friend, front, guide, help, hole, hope, hour, humor, idea, journey, knowledge, land, language, laugh, learning, level, light, limit, liquid, look, loss, love, meeting, memory, middle, mind, minute, mist, morning, motion, mountain, move, music, name, news, noise, note, number, offer, paint, paper, part, past, peace, person, place, pleasure, point, poison, polish, porter, possible, pot, punishment, question, reading, reason, record, relation, religion, request, rest, rice, river, road, room, rule, run, sand, scale, secret, secretary, selection, sense, servant, shade, shake, shock, side, sign, silk, silver, size, sleep, slip, slope, smell, smile, smoke, society, son, song, sort, sound, space, stage, start, statement, step, story, stretch, structure, sugar, suggestion, summer, support, surprise, talk, taste, tax, teaching, tendency, test, theory, thing, thought, thunder, time, touch, town, trick, trouble, turn, twist, unit, use, value, verse, vessel, view, voice, walk, war, wash, waste, water, wave, wax, way, weather, week, weight, wind, wine, winter, woman, word, work, wound, writing, year
+
+## 完整A-F词表（141词）
+
+account, act, addition, adjustment, advertisement, agreement, air, amount, amusement, animal, answer, apparatus, approval, argument, art, attack, attempt, attention, attraction, authority, back, balance, base, behavior, belief, birth, bit, bite, blood, blow, body, brass, bread, breath, brother, building, burn, burst, business, butter, canvas, care, cause, chalk, chance, change, cloth, coal, color, comfort, committee, company, comparison, competition, condition, connection, control, cook, copper, copy, cork, cotton, cough, country, cover, crack, credit, crime, crush, cry, current, curve, damage, danger, daughter, day, death, debt, decision, degree, design, desire, destruction, detail, development, digestion, direction, discovery, discussion, disease, disgust, distance, distribution, division, doubt, drink, driving, dust, earth, edge, education, effect, end, error, event, example, exchange, existence, expansion, experience, expert, fact, fall, family, father, fear, feeling, fiction, field, fight, fire, flame, flight, flower, fold, food, force, form, friend, front, fruit
+
+## 完整G-O词表（82词）
+
+glass, gold, government, grain, grass, grip, group, growth, guide, harbor, harmony, hate, hearing, heat, help, history, hole, hope, hour, humor, ice, idea, impulse, increase, industry, ink, insect, instrument, insurance, interest, invention, iron, jelly, join, journey, judge, jump, kick, kiss, knowledge, land, language, laugh, law, lead, learning, leather, letter, level, lift, light, limit, linen, liquid, list, look, loss, love, machine, man, manager, mark, market, mass, meal, measure, meat, meeting, memory, metal, middle, milk, mind, mine, minute, mist, money, month, morning, mother, motion, mountain, move, music, name, nation, need, news, night, noise, note, number, observation, offer, oil, operation, opinion, order, organization, ornament, owner
+
+## 完整P-Z词表（177词）
+
+page, pain, paint, paper, parallel, parcel, part, paste, payment, peace, pen, pencil, person, physical, picture, pig, pin, pipe, place, plant, plate, play, please, pleasure, plough/plow, pocket, point, poison, polish, political, poor, porter, position, possible, pot, potato, powder, power, present, price, print, prison, private, probable, process, produce, profit, property, prose, protest, public, pull, pump, punishment, purpose, push, quality, question, rain, range, rat, rate, ray, reaction, reading, ready, reason, receipt, record, red, regret, regular, relation, religion, representative, request, respect, responsible, rest, reward, rhythm, rice, right, ring, river, road, rod, roll, roof, room, root, rough, round, rub, rule, run, salt, sand, scale, science, scissors, screw, sea, seat, second, secret, secretary, see, seed, selection, self, send, seem, sense, separate, serious, servant, sex, shade, shake, shame, sharp, sheep, shelf, ship, shirt, shock, shoe, short, shut, side, sign, silk, silver, simple, sister, size, skin, skirt, sky, sleep, slip, slope, slow, small, smash, smell, smile, smoke, smooth, snake, sneeze, snow, so, soap, society, sock, soft, solid, some, son, song, sort, sound, south, soup, space, spade, special, sponge, spoon, spring, square, stamp, stage, star, start, statement, station, steam, stem, steel, step, stick, sticky, still, stitch, stocking, stomach, stone, stop, store, story, strange, street, stretch, stiff, straight, strong, structure, substance, such, sudden, sugar, suggestion, summer, sun, support, surprise, sweet, swim, system, table, tail, take, talk, tall, taste, tax, teaching, tendency, test, than, that, the, then, theory, there, thick, thin, thing, this, though, thought, thread, throat, through, thumb, thunder, ticket, tight, till, time, tin, tired, to, toe, together, tomorrow, tongue, tooth, top, touch, town, trade, train, transport, tray, tree, trick, trouble, trousers, true, turn, twist, unit, use, value, verse, vessel, view, voice, walk, war, wash, waste, water, wave, wax, way, weather, week, weight, wind, wine, winter, woman, wood, wool, word, work, wound, writing, year
